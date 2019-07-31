@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nicolashacala:nicolashacala@devconnector-kunvq.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myjwtsecret",
+  "githubClientId": "82088180c5f52d2fc830",
+  "githubSecret": "f4ffa7b7b957abdadcf0ab7780c9fe29d8874d6c"
+}
